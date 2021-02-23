@@ -11,28 +11,28 @@ The design company [umpontoseis](https://www.linkedin.com/company/umpontoseis/) 
 ### Show some :heart: and follow them on social media
 
 <a href="https://www.instagram.com/umpontoseisig">
-  <img src="images/instagram.png" alt="instagram" style="width:25px;"/>
+  <img src="images/instagram.png" alt="instagram" width="25" height="25"/>
 </a>
 <a href="https://dribbble.com/umpontoseis">
-  <img src="images/dribbble.png" alt="dribbble" style="width:25px;"/>
+  <img src="images/dribbble.png" alt="dribbble" width="25" height="25"/>
 </a>
 <a href="https://discord.gg/p9gdRtm">
-  <img src="images/discord.png" alt="discord" style="width:25px;"/>
+  <img src="images/discord.png" alt="discord" width="25" height="25"/>
 </a>
 <a href="https://www.behance.net/umpontoseis">
-  <img src="images/behance.png" alt="behance" style="width:25px;"/>
+  <img src="images/behance.png" alt="behance" width="25" height="25"/>
 </a>
 <!-- <a href="https://www.linkedin.com/company/umpontoseis">
-  <img src="images/linkedin.png" alt="linkedin" style="width:25px;"/>
+  <img src="images/linkedin.png" alt="linkedin" width="25" height="25"/>
 </a> -->
 <!-- <a href="https://www.figma.com/@umpontoseis">
-  <img src="images/figma.png" alt="figma" style="width:25px;"/>
+  <img src="images/figma.png" alt="figma" width="25" height="25"/>
 </a>
 <a href="https://www.facebook.com/umpontoseisfb">
-  <img src="images/facebook.png" alt="facebook" style="width:25px;"/>
+  <img src="images/facebook.png" alt="facebook" width="25" height="25"/>
 </a> -->
 <a href="https://github.com/umpontoseis">
-  <img src="images/github.png" alt="github" style="width:25px;"/>
+  <img src="images/github.png" alt="github" width="25" height="25"/>
 </a>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/umpontoseis?label=Siga%20%40umpontoseis&style=social)
@@ -41,6 +41,8 @@ The design company [umpontoseis](https://www.linkedin.com/company/umpontoseis/) 
 
 ### App Preview
 
-<img src="images/preview_01.gif" alt="Filter Preview" style="width:30%;"/>
-<img src="images/preview_02.gif" alt="Search Preview" style="width:30%;"/>
-<img src="images/preview_03.gif" alt="Details Preview" style="width:30%;"/>
+<p float="left">
+  <img src="images/preview_01.gif" alt="Filter Preview" width="30%"/>
+  <img src="images/preview_02.gif" alt="Search Preview" width="30%"/>
+  <img src="images/preview_03.gif" alt="Details Preview" width="30%"/>
+</p>
